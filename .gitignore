@@ -5,6 +5,7 @@ out/
 .idea/
 Rush411.iml
 *.iml
+.idea/
 
 ### Eclipse ###
 .apt_generated
